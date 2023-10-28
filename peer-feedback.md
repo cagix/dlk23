@@ -47,19 +47,29 @@ Wir möchten in unserem Beitrag unsere Erfahrungen beim Peer-Feedback zu Übungs
 
 ## Lessons Learned
 
-✅ Was war gut:
+:::::: columns
+::: column
+
+![](img/was_war_gut.png)
 
 -   Studierende können fremde Lösungen (Code) (besser) lesen
 -   Studierende können fremde Konzepte bewerten
 -   Studierende bekommen vielfältige Anregungen für eigene Arbeit
 -   Studierende können sich besser im Klassenkontext einordnen
 
-❌ Was könnte besser sein:
+:::
+::: column
+
+![](img/was_koennte_besser_sein.png)
 
 -   Einrichtung ILIAS relativ aufwändig: Kriterienkataloge sollten zu Beginn feststehen
 -   Arbeit in Gruppen, Peer-Feedback im ILIAS funktioniert aber nur für Einzelabgaben
 -   Kontrolle der abgegebenen Feedbacks relativ aufwändig (UX im ILIAS)
 -   Orga: für das Peer-Feedback muss Zeit eingeplant werden, welche im wöchentlichen Rhythmus dann schmerzhaft fehlt
+
+:::
+::::::
+
 
 
 # Teil 2: Einrichtung Kursräume
