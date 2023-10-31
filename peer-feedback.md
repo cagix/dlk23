@@ -117,15 +117,36 @@ Studierende sehen dadurch nur die Kerninformationen sowie den Block für den akt
 -   Kurse werden im offenen Bereich im ILIAS angelegt: Beschreibung, Lernmodul, Link zum aktuellen geschlossenen Kursraum
 -   Geschlossener Kursraum für Durchführung des Moduls: Organisation der Studierenden, Abgaben im Praktikum, ... => Link in den offenen Kursraum für das Lernmodul
 
-## So sieht es aus
+## So sieht es aus: Screenshot GitHub Compilerbau
 
-**TODO**: Screenshot GitHub Compilerbau
+![](img/screenshot_cb_github.png)
 
-**TODO**: Screenshot offener Kursraum Compilerbau
+## So sieht es aus: Screenshot offener Kursraum Compilerbau
 
-**TODO**: Screenshot geschlossener Kursraum Compilerbau
+![](img/screenshot_cb_oer.png)
 
-**TODO**: Screenshot Lernmodul Compilerbau: (a) Startseite, (b) eine ausgewählte Sitzung
+## So sieht es aus: Screenshot geschlossener Kursraum Compilerbau
+
+![](img/screenshot_cb_ilias.png)
+
+Quelle: [Videokonferenz](https://www.publicdomainpictures.net/de/view-image.php?image=387148&picture=videokonferenz) by [alexandra Koch](https://www.publicdomainpictures.net/de/browse-author.php?a=155932) on PublicDomainPictures.net ([CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/))
+
+Quelle: [Fragen und Antworten](https://www.publicdomainpictures.net/de/view-image.php?image=387458&picture=fragen-und-antworten) by [mohamed mahmoud hassan](https://www.publicdomainpictures.net/de/browse-author.php?a=138450) on PublicDomainPictures.net ([CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/))
+
+## So sieht es aus: Screenshot Lernmodul Compilerbau
+
+:::::: columns
+::: column
+
+![](img/screenshot_cb_lernmodul.png)
+
+:::
+::: column
+
+![](img/screenshot_cb_lernmodul_session.png)
+
+:::
+::::::
 
 
 
