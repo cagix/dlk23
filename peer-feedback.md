@@ -35,8 +35,10 @@ Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden 
 :::
 
 \bigskip
+\smallskip
 
 Ziele Peer-Feedback: Studierende sollen ...
+
 -   Fremde Lösungen (Code) lesen lernen
 -   Fremde Konzepte bewerten lernen
 -   Anregungen für ihre eigenen Lösungen bekommen (Spieleentwicklung!)
@@ -44,16 +46,55 @@ Ziele Peer-Feedback: Studierende sollen ...
 ::: notes
 Im Übungsobjekt im ILIAS kann das Peer-Feedback aktiviert werden. Dort können dann Fragenkataloge hinterlegt werden, die beim Feedback bearbeitet werden müssen.
 
-Organisatorisch findet die Peer-Feedback-Phase nach der Abgabe im ILIAS und vor der Vorstellung im Praktikum statt. Nach Ablauf der Abgabefrist wird vom ILIAS jeder Person mit einer Abgabe eine konfigurierbare Anzahl anderer Lösungen zum Review zugewiesen, wir haben hier mit zwei bis drei Reviews gearbeitet. Für das Review selbst muss entsprechend weitere Zeit eingeplant werden, im konkreten Fall wurde die Abgabe von Freitag vor dem Praktikum auf Donnerstag vorgezogen und die Peer-Feedback-Phase von Donnerstag bis Freitag vor dem Praktikum aktiviert. Anschließend wurde wie immer das Praktikum am Freitag durchgeführt, wobei hier zusätzlich das gegebene und empfangene Feedback mit diskutiert wurde.
+Organisatorisch findet die Peer-Feedback-Phase nach der Abgabe im ILIAS und vor der Vorstellung im Praktikum statt. Nach Ablauf der Abgabefrist wird vom ILIAS jeder Person mit einer Abgabe automatisch eine konfigurierbare Anzahl anderer Lösungen zum Review zugewiesen, wir haben hier mit zwei bis drei Reviews gearbeitet. Für das Review selbst muss entsprechend weitere Zeit eingeplant werden, im konkreten Fall wurde die Abgabe von Freitag vor dem Praktikum auf Donnerstag vorgezogen und die Peer-Feedback-Phase von Donnerstag bis Freitag vor dem Praktikum aktiviert. Anschließend wurde wie immer das Praktikum am Freitag durchgeführt, wobei hier zusätzlich das gegebene und empfangene Feedback mit diskutiert wurde.
 
 Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgaben aktivierbar, so dass jede Person eines Teams einzeln abgeben muss.
 :::
 
 
-## Kriterienkataloge im Übungsobjekt
+## Peer-Feedback: Kriterienkataloge im Übungsobjekt
+
+::: notes
+Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback einrichten. Diese vorgegebenen Fragen müssen von den Teilnehmenden im Review beantwortet werden.
+
+Es stehen u.a. "ja/nein"-Fragen, Checkboxen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung. Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
+:::
+
+Beispiele für Review-Fragen:
+
+-   Wie gut können Sie die Modellierung nachvollziehen? ([5-Sterne-Bewertung]{.alert})
+-   Was gefällt Ihnen an der Modellierung besonders? ([Text]{.alert})
+-   Wie könnte die Modellierung verbessert werden? ([Text]{.alert})
+-   Beurteilen Sie die Dokumentation des Codes und geben Sie Verbesserungshinweise. ([Text]{.alert})
+-   Zusätzliche Bemerkungen – Optional! ([Text]{.alert})
+-   Kein Review – es handelt sich um die Abgabe meines Teams. ([Erfüllt Ja/Nein]{.alert})
 
 
-## Lessons Learned
+## Peer-Feedback: Lessons Learned
+
+::: notes
+Das Peer-Feedback war recht erfolgreich und wurde von den meisten Studierenden gut angenommen.
+
+![](img/was_war_gut.png){width="40%"}
+
+Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fremde Lösungen (Code) lesen lernen, (b) fremde Konzepte bewerten lernen, und (c) Anregungen für die eigenen Lösungen bekommen über das Peer-Feedback erreicht wurden. Durch die Beschäftigung mit fremden Lösungen können sich die Studierenden auch besser im Klassenkontext einordnen.
+
+![](img/was_koennte_besser_sein.png){width="40%"}
+:::
+
+-   Fragen: Lieber Freitext statt Checkboxen bzw. 5-Sterne-Bewertung nutzen
+
+\smallskip
+
+-   ILIAS:
+    -   Peer-Feedback lässt sich nur für Einzelabgaben konfigurieren
+    -   Kriterienkataloge lassen sich nicht kopieren
+
+\smallskip
+
+-   Organisation:
+    -   Peer-Review == zusätzliche "Abgabe" (aus Studierendenperspektive)
+    -   Zusätzliche Bearbeitungszeit notwendig
 
 
 ## Poster-Galerie im Modul "Künstliche Intelligenz"

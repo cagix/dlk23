@@ -23,5 +23,10 @@ variables:
     - numbering=none
     - progressbar=foot
 
+include-in-header:
+  - resources/definitions.tex
+  - resources/beamer.tex
+
 filters:
   - prepareSlides.lua
+  - tex.lua
