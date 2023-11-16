@@ -18,6 +18,7 @@ variables:
   documentclass: scrartcl
   papersize: a4
   fontsize: 11pt
+  colorlinks: true
 
 filters:
   - prepareHandout.lua

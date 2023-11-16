@@ -68,7 +68,7 @@ Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback e
 Es stehen u.a. "ja/nein"-Fragen, Checkboxen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung. Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
 :::
 
-Beispiele für Review-Fragen:
+Beispiele für [verwendete]{.notes} Review-Fragen:
 
 -   Wie gut können Sie die Modellierung nachvollziehen? ([5-Sterne-Bewertung]{.alert})
 -   Was gefällt Ihnen an der Modellierung besonders? ([Text]{.alert})
