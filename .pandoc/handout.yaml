@@ -8,6 +8,9 @@ metadata:
 
 strip-comments: true
 wrap: preserve
+number-sections: true
+
+shift-heading-level-by: -1
 
 pdf-engine: pdflatex
 pdf-engine-opt: '-shell-escape'

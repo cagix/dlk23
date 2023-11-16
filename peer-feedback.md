@@ -12,6 +12,38 @@ format: "Kurzvortrag"
 ---
 
 
+## Ausgangssituation: Lehrmaterialien als OER
+
+
+## Unterstützung durch Digi-Scouts von DigikoS
+
+
+## Lernszenario "Programmiermethoden": Wir entwickeln ein Spiel
+
+
+## Peer-Feedback
+
+
+## Kriterienkataloge im Übungsobjekt
+
+
+## Lessons Learned
+
+
+## Poster-Galerie im Modul "Künstliche Intelligenz"
+
+
+## LICENSE
+
+![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
+
+Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
+
+
+---
+
+
+
 # Teil 1: Peer-Feedback für die Selbstlernphase
 
 ## Lernszenario: Wir entwickeln ein Spiel
