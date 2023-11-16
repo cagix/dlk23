@@ -20,8 +20,31 @@ format: "Kurzvortrag"
 
 ## Lernszenario "Programmiermethoden": Wir entwickeln ein Spiel
 
+::: notes
+Das Modul "Programmiermethoden" im zweiten Semester Informatik am Campus Minden beschäftigt sich mit fortgeschrittenen Inhalten zum Thema Programmieren mit Java.
 
-## Peer-Feedback
+Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wenden die theoretischen Inhalte im Praktikum an und programmieren schrittweise über das Semester hinweg ein Spiel. Die Studierenden arbeiten dabei in kleinen Teams von drei Personen.
+
+Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden teamweise in der Selbststudiumszeit bearbeitet. Die Abgabe erfolgt im ILIAS über ein Übungsobjekt. Im Praktikum stellen die Studierenden ihre Lösungen den Lehrenden vor und erhalten dabei Feedback von den Lehrenden.
+:::
+
+![](img/grafik_ablauf_abgabe_highlight.png)
+
+\pause
+\bigskip
+
+Ziele Peer-Feedback: Studierende sollen ...
+-   Fremde Lösungen (Code) lesen lernen
+-   Fremde Konzepte bewerten lernen
+-   Anregungen für ihre eigenen Lösungen bekommen (Spieleentwicklung!)
+
+::: notes
+Im Übungsobjekt im ILIAS kann das Peer-Feedback aktiviert werden. Dort können dann Fragenkataloge hinterlegt werden, die beim Feedback bearbeitet werden müssen.
+
+Organisatorisch findet die Peer-Feedback-Phase nach der Abgabe im ILIAS und vor der Vorstellung im Praktikum statt. Nach Ablauf der Abgabefrist wird vom ILIAS jeder Person mit einer Abgabe eine konfigurierbare Anzahl anderer Lösungen zum Review zugewiesen, wir haben hier mit zwei bis drei Reviews gearbeitet. Für das Review selbst muss entsprechend weitere Zeit eingeplant werden, im konkreten Fall wurde die Abgabe von Freitag vor dem Praktikum auf Donnerstag vorgezogen und die Peer-Feedback-Phase von Donnerstag bis Freitag vor dem Praktikum aktiviert. Anschließend wurde wie immer das Praktikum am Freitag durchgeführt, wobei hier zusätzlich das gegebene und empfangene Feedback mit diskutiert wurde.
+
+Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgaben aktivierbar, so dass jede Person eines Teams einzeln abgeben muss.
+:::
 
 
 ## Kriterienkataloge im Übungsobjekt
