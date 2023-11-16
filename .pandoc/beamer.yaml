@@ -1,0 +1,27 @@
+from: markdown+lists_without_preceding_blankline+rebase_relative_paths
+to: beamer
+
+citeproc: true
+metadata:
+  #csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  #cls: https://www.zotero.org/styles/springer-basic-author-date
+  link-citations: false
+  suppress-bibliography: true
+
+strip-comments: true
+wrap: preserve
+
+shift-heading-level-by: -1
+
+pdf-engine: pdflatex
+pdf-engine-opt: '-shell-escape'
+variables:
+  aspectratio: 1610
+  fontsize: smaller
+  theme: metropolis
+  themeoptions:
+    - numbering=none
+    - progressbar=foot
+
+filters:
+  - prepareSlides.lua

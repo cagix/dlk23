@@ -1,0 +1,20 @@
+from: markdown+lists_without_preceding_blankline+rebase_relative_paths
+to: pdf
+
+citeproc: true
+metadata:
+  #csl: https://www.zotero.org/styles/springer-lecture-notes-in-computer-science
+  link-citations: true
+
+strip-comments: true
+wrap: preserve
+
+pdf-engine: pdflatex
+pdf-engine-opt: '-shell-escape'
+variables:
+  documentclass: scrartcl
+  papersize: a4
+  fontsize: 11pt
+
+filters:
+  - prepareHandout.lua

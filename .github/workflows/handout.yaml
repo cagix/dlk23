@@ -1,0 +1,27 @@
+name: HANDOUT
+on:
+  # push on master branch: build handout (pandoc)
+  push:
+    branches: [master]
+  # manually triggered: build handout (pandoc)
+  workflow_dispatch:
+
+
+jobs:
+  # build handout (pandoc): "make handout"
+  handout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: cagix/pandoc-lecture@master
+        with:
+          texlive: 'true'
+      - run: make handout
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: _handout
+          publish_dir: docs/
+          force_orphan: true

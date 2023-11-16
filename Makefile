@@ -1,4 +1,4 @@
-## Run 'make book' or 'make slides' to build the faq material.
+## Run 'make handout' or 'make slides' to build the faq material.
 ##
 ## (a) You can use the toolchain installed in the Docker image "pandoc-lecture",
 ##     which comes ready to use (no other dependencies).
@@ -40,12 +40,14 @@ PANDOC_ARGS      = $(PANDOC_DIRS)
 
 
 #--------------------------------------------------------------------------------
-# Source and target files for book and slides
+# Source and target files for handout and slides
 #--------------------------------------------------------------------------------
 MARKDOWN_SOURCES = peer-feedback.md
 OUTPUT_DIR       = docs
+PANDOC_CONF      = .pandoc
 
-SLIDES_TARGET    = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pdf)
+SLIDES_TARGET    = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%_slides.pdf)
+DOC_TARGET       = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%_handout.pdf)
 PPTX_Target      = $(MARKDOWN_SOURCES:%.md=$(OUTPUT_DIR)/%.pptx)
 
 
@@ -65,10 +67,13 @@ runlocal: ## Start Docker container "pandoc-lecture" into interactive shell
 
 
 .PHONY: all
-all: slides pptx ## Make everything
+all: slides handout pptx ## Make everything
 
 .PHONY: slides
 slides: $(OUTPUT_DIR) $(SLIDES_TARGET) ## Create LaTeX/Beamer slides
+
+.PHONY: handout
+handout: $(OUTPUT_DIR) $(DOC_TARGET) ## Create LaTeX handout
 
 .PHONY: pptx
 pptx: $(OUTPUT_DIR) $(PPTX_Target) ## Create PowerPoint slides
@@ -79,7 +84,7 @@ clean: ## Clean up intermediate files
 
 .PHONY: distclean
 distclean: clean ## Clean up intermediate files and generated artifacts
-	rm -rf $(SLIDES_TARGET) $(PPTX_Target) $(OUTPUT_DIR)
+	rm -rf $(SLIDES_TARGET) $(DOC_TARGET) $(PPTX_Target) $(OUTPUT_DIR)
 
 
 #--------------------------------------------------------------------------------
@@ -88,8 +93,11 @@ distclean: clean ## Clean up intermediate files and generated artifacts
 $(OUTPUT_DIR):
 	mkdir -p $@
 
-$(SLIDES_TARGET): $(OUTPUT_DIR)/%.pdf: %.md
-	$(PANDOC) $(PANDOC_ARGS) -d beamer $< -o $@
+$(SLIDES_TARGET): $(OUTPUT_DIR)/%_slides.pdf: %.md
+	$(PANDOC) $(PANDOC_ARGS) -d $(PANDOC_CONF)/beamer $< -o $@
+
+$(DOC_TARGET): $(OUTPUT_DIR)/%_handout.pdf: %.md
+	$(PANDOC) $(PANDOC_ARGS) -d $(PANDOC_CONF)/handout $< -o $@
 
 $(PPTX_Target): $(OUTPUT_DIR)/%.pptx: %.md
 	$(PANDOC) $(PANDOC_ARGS) $< -o $@
