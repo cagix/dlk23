@@ -9,6 +9,7 @@ institute: "Unless otherwise noted, this work is licensed under CC BY-SA 4.0."
 lang: de-DE
 track: "Fusion Learning"
 format: "Kurzvortrag"
+date: "21. November 2023"
 ---
 
 
