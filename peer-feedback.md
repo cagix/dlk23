@@ -1,19 +1,15 @@
 ---
 title: "Peer-Feedback, Poster-Sessions und OER in ILIAS-Kursräumen"
 author: "Finn Amini Kaveh, Carsten Gips (HSBI)"
+abstract: |
+    Das Projekt DigikoS hat im letzten Jahr die beiden Module "Künstliche Intelligenz" (KI) und "Programmiermethoden" (PM) am Campus Minden unterstützt. Beide Veranstaltungen sind durch moderne Lehrkonzepte und eine enge Verschmelzung digitaler und analoger Elemente geprägt und werden im Flipped Classroom durchgeführt; die Veranstaltung KI wird zudem in internationaler Kooperation organisiert. In beiden Projekten sollte die Selbstlernphase gestärkt und das Peer-Learning gefördert werden, in KI war zusätzlich die Aktivierung der Studierenden im Internationalisierungskontext ein wichtiges Ziel.
+
+    Wir möchten in unserem Beitrag unsere Erfahrungen beim Peer-Feedback zu Übungsaufgaben im ILIAS, bei digitalen Selbsttests zur Lernfortschrittskontrolle, bei der Durchführung von Poster-Sessions und der Einrichtung einer Poster-Galerie sowie bei der Bildung von internationalen Studierenden-Tandems teilen. Darüber hinaus werden wir einen Einblick in die Gestaltung der ILIAS-Kursräume geben, die jeweils aus einem offenen Kursraum für das OER-Lehr-/Lernmaterial sowie einem geschlossenen Kursraum für die Semesterorganisation und Abgaben bestanden. Hierzu wurde eine interessante Lösung entwickelt, um den Studierenden zeitgesteuert die in einer bestimmten Woche relevanten ILIAS-Objekte zu präsentieren.
 institute: "Unless otherwise noted, this work is licensed under CC BY-SA 4.0."
-subtitle: "Unless otherwise noted, this work is licensed under CC BY-SA 4.0."
 lang: de-DE
 track: "Fusion Learning"
 format: "Kurzvortrag"
 ---
-
-
-<!--
-Das Projekt DigikoS hat im letzten Jahr die beiden Module "Künstliche Intelligenz" (KI) und "Programmiermethoden" (PM) am Campus Minden unterstützt. Beide Veranstaltungen sind durch moderne Lehrkonzepte und eine enge Verschmelzung digitaler und analoger Elemente geprägt und werden im Flipped Classroom durchgeführt; die Veranstaltung KI wird zudem in internationaler Kooperation organisiert. In beiden Projekten sollte die Selbstlernphase gestärkt und das Peer-Learning gefördert werden, in KI war zusätzlich die Aktivierung der Studierenden im Internationalisierungskontext ein wichtiges Ziel.
-
-Wir möchten in unserem Beitrag unsere Erfahrungen beim Peer-Feedback zu Übungsaufgaben im ILIAS, bei digitalen Selbsttests zur Lernfortschrittskontrolle, bei der Durchführung von Poster-Sessions und der Einrichtung einer Poster-Galerie sowie bei der Bildung von internationalen Studierenden-Tandems teilen. Darüber hinaus werden wir einen Einblick in die Gestaltung der ILIAS-Kursräume geben, die jeweils aus einem offenen Kursraum für das OER-Lehr-/Lernmaterial sowie einem geschlossenen Kursraum für die Semesterorganisation und Abgaben bestanden. Hierzu wurde eine interessante Lösung entwickelt, um den Studierenden zeitgesteuert die in einer bestimmten Woche relevanten ILIAS-Objekte zu präsentieren.
--->
 
 
 # Teil 1: Peer-Feedback für die Selbstlernphase
@@ -23,7 +19,7 @@ Wir möchten in unserem Beitrag unsere Erfahrungen beim Peer-Feedback zu Übungs
 -   Lehrveranstaltung zum Thema Programmieren mit Java (Aufbau-Modul)
 -   Gamification: Studierende entwickeln in kleinen Teams über das Semester hinweg ein Spiel
 -   Setting:
-    -   Bearbeitung der Aufgaben @home
+    -   Bearbeitung der Aufgaben `@home`
     -   Vorstellung durch Studierende im Praktikum (den Lehrenden gegenüber)
     -   Feedback und Bewertung der Bearbeitung durch Lehrende
 
