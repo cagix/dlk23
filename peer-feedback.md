@@ -30,7 +30,10 @@ Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden 
 
 ![](img/grafik_ablauf_abgabe_highlight.png)
 
+::: slides
 \pause
+:::
+
 \bigskip
 
 Ziele Peer-Feedback: Studierende sollen ...
