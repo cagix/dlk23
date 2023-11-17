@@ -2,7 +2,10 @@
 
 [Our talk](https://conference.hsbi.de/goto.php?target=grp_606&client_id=conferencefhbielefeld) at [#DLK23](https://conference.hsbi.de/) (November 21, 2023, Bielefeld University of Applied Sciences) on the subject "Peer-Feedback, Poster-Sessions und OER in ILIAS-Kursräumen".
 
----
+Read Online:
+
+-   [PDF](peer-feedback.pdf)
+-   [PPTX](peer-feedback.pptx)
 
 ## License
 
