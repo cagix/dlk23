@@ -33,11 +33,28 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 Das Modul "Programmiermethoden" im zweiten Semester Informatik am Campus Minden beschäftigt sich mit fortgeschrittenen Inhalten zum Thema Programmieren mit Java.
 
 Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wenden die theoretischen Inhalte im Praktikum an und programmieren schrittweise über das Semester hinweg ein Spiel. Die Studierenden arbeiten dabei in kleinen Teams von drei Personen.
+:::
 
+![](img/screenshot_dungeon.png){width=40%}
+
+::: slides
+\pause
+:::
+
+::: notes
 Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden teamweise in der Selbststudiumszeit bearbeitet. Die Abgabe erfolgt im ILIAS über ein Übungsobjekt. Im Praktikum stellen die Studierenden ihre Lösungen den Lehrenden vor und erhalten dabei Feedback von den Lehrenden.
 :::
 
-![](img/grafik_ablauf_abgabe_highlight.png)
+![](img/ablauf_abgabe_ohne.png){width=80%}
+
+
+## Peer-Feedback zu Übungsaufgaben im ILIAS
+
+Ziele Peer-Feedback: Studierende sollen ...
+
+-   Fremde Lösungen (Code) lesen lernen
+-   Fremde Konzepte bewerten lernen
+-   Anregungen für ihre eigenen Lösungen bekommen (Spieleentwicklung!)
 
 ::: slides
 \pause
@@ -46,11 +63,7 @@ Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden 
 \bigskip
 \smallskip
 
-Ziele Peer-Feedback: Studierende sollen ...
-
--   Fremde Lösungen (Code) lesen lernen
--   Fremde Konzepte bewerten lernen
--   Anregungen für ihre eigenen Lösungen bekommen (Spieleentwicklung!)
+![](img/ablauf_abgabe_mit.png)
 
 ::: notes
 Im Übungsobjekt im ILIAS kann das Peer-Feedback aktiviert werden. Dort können dann Fragenkataloge hinterlegt werden, die beim Feedback bearbeitet werden müssen.
