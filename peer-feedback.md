@@ -44,9 +44,8 @@ Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wen
 
 ::: slides
 \pause
-:::
-
 \smallskip
+:::
 
 ::: notes
 Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden teamweise in der Selbststudiumszeit bearbeitet. Die Abgabe erfolgt im ILIAS über ein Übungsobjekt. Im Praktikum stellen die Studierenden ihre Lösungen den Lehrenden vor und erhalten dabei Feedback von den Lehrenden.
@@ -68,13 +67,13 @@ Ziele Peer-Feedback: Studierende sollen ...
 -   Fremde Konzepte bewerten lernen
 -   Anregungen für ihre eigenen Lösungen bekommen (Spieleentwicklung!)
 
-\bigskip
-\bigskip
-
 ::: notes
 ![Einplanen des Peer-Feedbacks im Wochenablauf](img/ablauf_abgabe_mit.png)
 :::
 ::: slides
+\bigskip
+\bigskip
+
 ![](img/ablauf_abgabe_mit.png)
 :::
 
