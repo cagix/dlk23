@@ -33,29 +33,25 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 Das Modul "Programmiermethoden" im zweiten Semester Informatik am Campus Minden beschäftigt sich mit fortgeschrittenen Inhalten zum Thema Programmieren mit Java.
 
 Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wenden die theoretischen Inhalte im Praktikum an und programmieren schrittweise über das Semester hinweg ein Spiel. Die Studierenden arbeiten dabei in kleinen Teams von drei Personen.
-:::
 
-::: notes
 ![Spielsituation im Dungeon](img/screenshot_dungeon.png){width=40%}
 :::
-::: slides
-![](img/screenshot_dungeon.png){width=40%}
-:::
 
 ::: slides
+![](img/screenshot_dungeon.png){width=40%}
+
 \pause
-\smallskip
+\bigskip
 :::
 
 ::: notes
 Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden teamweise in der Selbststudiumszeit bearbeitet. Die Abgabe erfolgt im ILIAS über ein Übungsobjekt. Im Praktikum stellen die Studierenden ihre Lösungen den Lehrenden vor und erhalten dabei Feedback von den Lehrenden.
+
+![Zeitlicher Ablauf der Bearbeitung, Abgabe und Bewertung](img/ablauf_abgabe_ohne.png){width=70%}
 :::
 
-::: notes
-![Zeitlicher Ablauf der Bearbeitung, Abgabe und Bewertung](img/ablauf_abgabe_ohne.png){width=80%}
-:::
 ::: slides
-![](img/ablauf_abgabe_ohne.png){width=80%}
+![](img/ablauf_abgabe_ohne.png){width=70%}
 :::
 
 
@@ -70,6 +66,7 @@ Ziele Peer-Feedback: Studierende sollen ...
 ::: notes
 ![Einplanen des Peer-Feedbacks im Wochenablauf](img/ablauf_abgabe_mit.png)
 :::
+
 ::: slides
 \bigskip
 \bigskip
@@ -88,15 +85,19 @@ Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgabe
 
 ## Peer-Feedback: Kriterienkataloge im Übungsobjekt
 
-![](img/peerfeedback.png){width="80%"}
-
 ::: notes
 Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback einrichten. Diese vorgegebenen Fragen müssen von den Teilnehmenden im Review beantwortet werden.
+
+![](img/peerfeedback.png){width="80%"}
 
 Es stehen u.a. "ja/nein"-Fragen, Checkboxen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung. Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
 :::
 
+::: slides
+![](img/peerfeedback.png){width="80%"}
+
 \bigskip
+:::
 
 Beispiele für [verwendete]{.notes} Review-Fragen:
 
@@ -104,7 +105,6 @@ Beispiele für [verwendete]{.notes} Review-Fragen:
 -   Was gefällt Ihnen an der Modellierung besonders? ([Text]{.alert})
 -   Wie könnte die Modellierung verbessert werden? ([Text]{.alert})
 -   Beurteilen Sie die Dokumentation des Codes und geben Sie Verbesserungshinweise. ([Text]{.alert})
--   Zusätzliche Bemerkungen – Optional! ([Text]{.alert})
 -   Kein Review – es handelt sich um die Abgabe meines Teams. ([Erfüllt Ja/Nein]{.alert})
 
 
