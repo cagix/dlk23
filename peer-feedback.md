@@ -75,8 +75,6 @@ Ziele Peer-Feedback: Studierende sollen ...
 :::
 
 ::: notes
-Im Übungsobjekt im ILIAS kann das Peer-Feedback aktiviert werden. Dort können dann Fragenkataloge hinterlegt werden, die beim Feedback bearbeitet werden müssen.
-
 Organisatorisch findet die Peer-Feedback-Phase nach der Abgabe im ILIAS und vor der Vorstellung im Praktikum statt. Nach Ablauf der Abgabefrist wird vom ILIAS jeder Person mit einer Abgabe automatisch eine konfigurierbare Anzahl anderer Lösungen zum Review zugewiesen, wir haben hier mit zwei bis drei Reviews gearbeitet. Für das Review selbst muss entsprechend weitere Zeit eingeplant werden, im konkreten Fall wurde die Abgabe von Freitag vor dem Praktikum auf Donnerstag vorgezogen und die Peer-Feedback-Phase von Donnerstag bis Freitag vor dem Praktikum aktiviert. Anschließend wurde wie immer das Praktikum am Freitag durchgeführt, wobei hier zusätzlich das gegebene und empfangene Feedback mit diskutiert wurde.
 
 Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgaben aktivierbar, so dass jede Person eines Teams einzeln abgeben muss.
@@ -86,11 +84,19 @@ Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgabe
 ## Peer-Feedback: Kriterienkataloge im Übungsobjekt
 
 ::: notes
-Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback einrichten. Diese vorgegebenen Fragen müssen von den Teilnehmenden im Review beantwortet werden.
+Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback einrichten (vgl. Abb. \ref{fig:einrichten:kriterienkatalog}). Diese vorgegebenen Fragen müssen von den Teilnehmenden im Review beantwortet werden.
 
-![](img/peerfeedback.png){width="80%"}
+![Einrichten von Kriterienkatalogen für das Peer-Feedback im Einstellungsmenü des Übungsobjekts \label{fig:einrichten:kriterienkatalog}](img/kriterienkatalog.png){width="80%"}
 
-Es stehen u.a. "ja/nein"-Fragen, Checkboxen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung. Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
+Es stehen u.a. "ja/nein"-Fragen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung (vgl. Abb. \ref{fig:kriterien:kriterienkatalog}). Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
+
+![Zur Auswahl stehende Fragentypen für das Peer-Feedback \label{fig:kriterien:kriterienkatalog}](img/screenshot_kriterien.png){width="40%"}
+
+In den einzelnen Übungseinheiten in einem Übungsobjekt im ILIAS kann/muss das Peer-Feedback je Übungseinheit individuell aktiviert (vgl. Abb. \ref{fig:aktivieren:peerfeedback}) und konfiguriert (vgl. Abb. \ref{fig:konfigurieren:peerfeedback}) werden. 
+
+![Aktivierung des Peer-Feedback pro Übungseinheit im Einstellungsmenü der Übungseinheiten \label{fig:aktivieren:peerfeedback}](img/uebung1.png){width="80%"}
+
+![Konfiguration des Peer-Feedback pro Übungseinheit \label{fig:konfigurieren:peerfeedback}](img/uebung2.png){width="80%"}
 :::
 
 ::: slides
