@@ -88,11 +88,15 @@ Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgabe
 
 ## Peer-Feedback: Kriterienkataloge im Übungsobjekt
 
+![](img/peerfeedbak.png){width="80%"}
+
 ::: notes
 Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback einrichten. Diese vorgegebenen Fragen müssen von den Teilnehmenden im Review beantwortet werden.
 
 Es stehen u.a. "ja/nein"-Fragen, Checkboxen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung. Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
 :::
+
+\bigskip
 
 Beispiele für [verwendete]{.notes} Review-Fragen:
 
