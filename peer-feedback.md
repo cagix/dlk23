@@ -88,7 +88,7 @@ Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgabe
 
 ## Peer-Feedback: Kriterienkataloge im Übungsobjekt
 
-![](img/peerfeedbak.png){width="80%"}
+![](img/peerfeedback.png){width="80%"}
 
 ::: notes
 Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback einrichten. Diese vorgegebenen Fragen müssen von den Teilnehmenden im Review beantwortet werden.
