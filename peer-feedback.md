@@ -13,20 +13,6 @@ date: "21. November 2023"
 ---
 
 
-## Ausgangssituation: Lehrmaterialien als OER
-
-
-## Unterstützung durch Digi-Scouts von DigikoS
-
-Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS](https://www.digikos.de/)-Projekt. Dazu gehörten:
-
--   Einrichtung des Kursraumes in ILIAS
--   Konfiguration des Peer-Feedbacks
--   Konfiguration der Objekte für die Zyklen
--   Umsetzung der Poster-Galerie
--   Hilfe bei der Entwicklung von Umfragen zur Evaluation der eingesetzten Techniken
-
-
 ## Lernszenario "Programmiermethoden": Wir entwickeln ein Spiel
 
 ::: notes
@@ -161,6 +147,25 @@ Dadurch entsteht in der Studierendenansicht des Kursraums eine mehrspaltige Post
 \bigskip
 
 ![](img/screenshot_poster.png){width="80%"}
+:::
+
+
+## Unterstützung durch Digi-Scouts von DigikoS
+
+::: notes
+Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS](https://www.digikos.de/)-Projekt. Dazu gehörten:
+
+-   Einrichtung des Kursraumes in ILIAS
+-   Konfiguration des Peer-Feedbacks
+-   Konfiguration der Objekte für die Zyklen
+-   Umsetzung der Poster-Galerie
+-   Hilfe bei der Entwicklung von Umfragen zur Evaluation der eingesetzten Techniken
+:::
+
+::: slides
+\Large
+
+Vielen Dank für die Unterstützung durch die Digi-Scouts vom [DigikoS](https://www.digikos.de/)-Projekt!
 :::
 
 
