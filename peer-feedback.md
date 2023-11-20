@@ -105,11 +105,10 @@ Beispiele für [verwendete]{.notes} Review-Fragen:
 ::: notes
 Das Peer-Feedback war recht erfolgreich und wurde von den meisten Studierenden gut angenommen.
 
-![](img/was_war_gut.png){width="40%"}
-
+### Was war gut
 Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fremde Lösungen (Code) lesen lernen, (b) fremde Konzepte bewerten lernen, und (c) Anregungen für die eigenen Lösungen bekommen über das Peer-Feedback erreicht wurden. Durch die Beschäftigung mit fremden Lösungen können sich die Studierenden auch besser im Klassenkontext einordnen.
 
-![](img/was_koennte_besser_sein.png){width="40%"}
+### Was könnte beim nächsten Mal besser sein
 :::
 
 -   Fragen: Lieber Freitext statt Checkboxen bzw. 5-Sterne-Bewertung nutzen
