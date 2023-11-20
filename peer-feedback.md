@@ -127,6 +127,38 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
     -   Zusätzliche Bearbeitungszeit notwendig
 
 
+## Mehrwöchige Arbeitszyklen: Orientierung im ILIAS
+
+::: notes
+Die Arbeit der Studierenden wurde auf mehrere zweiwöchige Zyklen aufgeteilt (Abb. \ref{fig:abgabe:zyklus}).
+
+![Ablauf eines zweiwöchigen Zyklus \label{fig:abgabe:zyklus}](img/ablauf_abgabe_zyklus.png)
+
+Dabei wurde jeweils in der ersten Woche eines Zyklus ein Konzept für bestimmte Spielsituationen erstellt und bewertet (Peer-Feedback plus Dozentenfeedback), und in der zweiten Woche erfolgte die Umsetzung inkl. Feedback (erneut Peer-Feedback plus Dozentenfeedback). In jeder Zyklus-Phase wurden unterschiedliche, angepasste Feedback-Kriterienkataloge genutzt. Insgesamt folgten fünf solcher Zyklen aufeinander.
+:::
+
+::: slides
+![](img/ablauf_abgabe_zyklus.png){width="80%"}
+:::
+
+::: notes
+Um den Studierenden eine bessere Orientierung zu geben, (a) in welchem Zyklus und (b) in welcher Woche des Zyklus sie sich befinden, wurde im ILIAS-Kursraum die Seite mit der Seitengestaltung in mehrere Blöcke unterteilt: Für jeden Zyklus wurde ein Block mit den nötigen Informationen und Verlinkungen auf andere ILIAS-Objekte (Übungsobjekt, ...) eingerichtet. Zur leichteren Wiedererkennung wurden diese Blöcke unterschiedlich eingefärbt (vgl. Abb. \ref{fig:zyklus:user}).
+
+![Ansicht des aktuellen Zyklus im ILIAS aus Sicht der User \label{fig:zyklus:user}](img/screenshot_zyklus_user.png){width="80%"}
+
+Alle Blöcke wurden zeitgesteuert aktiviert und deaktiviert, so dass für die Studierenden immer nur die relevanten Informationen für den aktuellen Zyklus sichtbar waren und keine extra Eingriffe seitens des Dozenten notwendig wurden (die Einstellungen lassen sich als Kurs-Admin über "Seite gestalten" erreichen: Abb. \ref{fig:zyklus:admin}).
+
+![Einstellung der zeitgesteuerten Darstellung der Blöcke (Admin-Sicht: "Seite gestalten") \label{fig:zyklus:admin}](img/screenshot_zyklus_admin.png){width="80%"}
+:::
+
+::: slides
+\bigskip
+
+![](img/screenshot_zyklus.png)
+:::
+
+
+
 ## Poster-Galerie im Modul "Künstliche Intelligenz"
 
 ::: notes
