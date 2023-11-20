@@ -204,6 +204,60 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 ::::::
 
 
+## OER-Kurse
+
+::: notes
+### Konzept
+Prof. Gips hat aktuell vier Module als OER überarbeitet und unter der CC BY-SA-4.0 Lizenz bereitgestellt.
+
+Die Entwicklung und Versionierung der Inhalte (als Markdown-Quellen) erfolgt quelloffen auf GitHub. Über eine selbstentwickelte Toolchain werden daraus automatisch Foliensätze (PDF) sowie interaktive Lehrunterlagen (HTML-Lernmodul) exportiert.
+
+Die generierten Lernmodule werden in einen offenen Kursraum integriert.
+
+Für die Durchführung der Module wird zusätzlich ein geschlossener Kursraum angelegt. Hier werden personenbezogenen Daten und Vorgänge wie Organisation der Studierenden und die Abgaben im Praktikum datenschutzkonform durchgeführt, für die Materialien gibt es einen Link auf das Lernmodul im offenen Kursraum.
+
+![Überblick OER-Kurse: Entwicklung quelloffen auf GitHub, Export per CI/CD nach PDF und Lernmodul, Einsatz offener und geschlossener Kursräume (Lernmaterialien vs. personenbezogene Daten etc.) \label{fig:oer}](img/oer_kurse.png)
+
+Dieses Vorgehen ist über mehrere Jahre erfolgreich im Einsatz, es erlaubt eine schnelle Reaktion auf neue Themen oder das Korrigieren von Fehlern. Zusätzlich wird die zeitaufwändige manuelle Einrichtung der ILIAS-Kursräume auf ein Minimum reduziert.
+:::
+
+::: slides
+![](img/oer_kurse.png)
+:::
+
+
+::: notes
+### Beispiel Lernmodul Compilerbau
+:::
+::: slides
+## Beispiel Lernmodul Compilerbau
+:::
+
+::: notes
+![Beispiel: Lernmodul zu Compilerbau (Startseite, Session) \label{fig:lernmodul}](img/lernmodul.png)
+
+Die Studierenden erreichen im Lernmodul zunächst eine Startseite mit einer kurzen fachlichen Einordnung sowie einem Überblick über die behandelten Inhalte und einer Darstellung des Prüfungsformats. Danach gibt es eine Übersicht über die einzelnen Wochen und die jeweils behandelten Themen sowie Aufgaben.
+
+In den einzelnen Sitzungen ist der Aufbau über ein Template gesteuert. Hier finden die Studierenden zu einer Einheit eine Zusammenfassung, selbst erstellte Lehrvideos und Tutorials sowie Lernziele. Danach folgt die Darstellung des Lehrmaterials, gefolgt von Links zu Selbsttests (im ILIAS) sowie Challenges und Literatur zur Vertiefung. Die Studierenden können bequem per Navigation auf einen Abschnitt springen oder auch zu einem verwandeten Thema. Es gibt interaktive Elemente, zusätzlich sollen in Zukunft die Selbsttest aus dem ILIAS in das Lernmodul hineinverlagert werden, um den Studierenden eine Lernerfahrung ohne Medienbrüche zu ermöglichen.
+:::
+::: slides
+![](img/lernmodul.png)
+:::
+
+::: notes
+### Aktuell verfügbare OER-Kurse
+
+Aktuell sind vier verschiedene Module als OER-Kurse verfügbar (sowohl in Form der Quellen auf GitHub und auch als funktionsfähiges Lernmodul im offenen Bereich im ILIAS):
+
+-   Künstliche Intelligenz: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1089753&client_id=FH-Bielefeld), [GitHub](https://github.com/Artificial-Intelligence-HSBI-TDU/KI-Vorlesung)
+-   Programmiermethoden: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1089782&client_id=FH-Bielefeld), [GitHub](https://github.com/Programmiermethoden/PM-Lecture)
+-   Compilerbau: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1089779&client_id=FH-Bielefeld), [GitHub](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Bachelor)
+-   Concepts of Programming Languages: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1302203&client_id=FH-Bielefeld), [GitHub](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Master)
+
+Diese Module werden schrittweise weiter ausgebaut und gepflegt. Weitere Module sind aktuell in Überarbeitung.
+:::
+
+
 ## LICENSE
 
 ![](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
