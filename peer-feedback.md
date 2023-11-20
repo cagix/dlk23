@@ -165,7 +165,7 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 ::: slides
 \Large
 
-Vielen Dank für die Unterstützung durch die Digi-Scouts vom [DigikoS](https://www.digikos.de/)-Projekt!
+Vielen Dank für die Unterstützung bei der Umsetzung im ILIAS durch die Digi-Scouts vom [DigikoS](https://www.digikos.de/)-Projekt!
 :::
 
 
