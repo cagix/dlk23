@@ -62,7 +62,11 @@ Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden 
 :::
 
 ::: notes
-Organisatorisch findet die Peer-Feedback-Phase nach der Abgabe im ILIAS und vor der Vorstellung im Praktikum statt. Nach Ablauf der Abgabefrist wird vom ILIAS jeder Person mit einer Abgabe automatisch eine konfigurierbare Anzahl anderer Lösungen zum Review zugewiesen, wir haben hier mit zwei bis drei Reviews gearbeitet. Für das Review selbst muss entsprechend weitere Zeit eingeplant werden, im konkreten Fall wurde die Abgabe von Freitag vor dem Praktikum auf Donnerstag vorgezogen und die Peer-Feedback-Phase von Donnerstag bis Freitag vor dem Praktikum aktiviert. Anschließend wurde wie immer das Praktikum am Freitag durchgeführt, wobei hier zusätzlich das gegebene und empfangene Feedback mit diskutiert wurde.
+Organisatorisch findet die Peer-Feedback-Phase nach der Abgabe im ILIAS und vor der Vorstellung im Praktikum statt.
+
+Nach Ablauf der Abgabefrist wird vom ILIAS jeder Person mit einer Abgabe automatisch eine konfigurierbare Anzahl anderer Lösungen zum Review zugewiesen, wir haben hier mit zwei bis drei Reviews gearbeitet. Für das Review selbst muss entsprechend weitere Zeit eingeplant werden, im konkreten Fall wurde die Abgabe von Freitag vor dem Praktikum auf Donnerstag vorgezogen und die Peer-Feedback-Phase von Donnerstag bis Freitag vor dem Praktikum aktiviert.
+
+Anschließend wurde wie immer das Praktikum am Freitag durchgeführt, wobei hier zusätzlich das gegebene und empfangene Feedback mit diskutiert wurde.
 
 Leider ist das Peer-Feedback in der ILIAS-Übung technisch nur für Einzelabgaben aktivierbar, so dass jede Person eines Teams einzeln abgeben muss.
 :::
@@ -113,17 +117,20 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
 :::
 
 -   **Fragen**: Lieber Freitext statt Checkboxen bzw. 5-Sterne-Bewertung nutzen
+    [(Freitext erzwingt eine aktivere Auseinandersetzung)]{.notes}
 
 \smallskip
 
 -   **ILIAS**:
     -   Peer-Feedback lässt sich nur für Einzelabgaben konfigurieren
+        [(problematisch bei Bearbeitung in kleinen Teams)]{.notes}
     -   Kriterienkataloge lassen sich nicht kopieren
+        [(sollten zu Beginn der Veranstaltung feststehen)]{.notes}
 
 \smallskip
 
 -   **Organisation**:
-    -   Peer-Review == zusätzliche "Abgabe" (aus Studierendenperspektive)
+    -   Peer-Review == zusätzliche "Abgabe" (aus Studierenden-Perspektive)
     -   Zusätzliche Bearbeitungszeit notwendig
 
 
@@ -146,7 +153,7 @@ Um den Studierenden eine bessere Orientierung zu geben, (a) in welchem Zyklus un
 
 ![Ansicht des aktuellen Zyklus im ILIAS aus Sicht der User \label{fig:zyklus:user}](img/screenshot_zyklus_user.png){width="80%"}
 
-Alle Blöcke wurden zeitgesteuert aktiviert und deaktiviert, so dass für die Studierenden immer nur die relevanten Informationen für den aktuellen Zyklus sichtbar waren und keine extra Eingriffe seitens des Dozenten notwendig wurden (die Einstellungen lassen sich als Kurs-Admin über "Seite gestalten" erreichen: Abb. \ref{fig:zyklus:admin}).
+Alle **Blöcke wurden zeitgesteuert aktiviert und deaktiviert**, so dass für die Studierenden immer nur die relevanten Informationen für den aktuellen Zyklus sichtbar waren und keine extra Eingriffe seitens des Dozenten notwendig wurden (die Einstellungen lassen sich als Kurs-Admin über "Seite gestalten" erreichen: Abb. \ref{fig:zyklus:admin}).
 
 ![Einstellung der zeitgesteuerten Darstellung der Blöcke (Admin-Sicht: "Seite gestalten") \label{fig:zyklus:admin}](img/screenshot_zyklus_admin.png){width="80%"}
 :::
@@ -208,13 +215,13 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 
 ::: notes
 ### Konzept
-Prof. Gips hat aktuell vier Module als OER überarbeitet und unter der CC BY-SA-4.0 Lizenz bereitgestellt.
+Prof. Gips hat aktuell **vier Module als OER** überarbeitet und unter der CC BY-SA-4.0 Lizenz bereitgestellt.
 
-Die Entwicklung und Versionierung der Inhalte (als Markdown-Quellen) erfolgt quelloffen auf GitHub. Über eine selbstentwickelte Toolchain werden daraus automatisch Foliensätze (PDF) sowie interaktive Lehrunterlagen (HTML-Lernmodul) exportiert.
+Die **Entwicklung und Versionierung der Inhalte** (als Markdown-Quellen) erfolgt quelloffen auf **GitHub**. Über eine **selbstentwickelte Toolchain** werden daraus automatisch **Foliensätze (PDF) sowie interaktive Lehrunterlagen (HTML-Lernmodul) exportiert**.
 
-Die generierten Lernmodule werden in einen offenen Kursraum integriert.
+Die generierten **Lernmodule werden in einen offenen Kursraum** integriert.
 
-Für die Durchführung der Module wird zusätzlich ein geschlossener Kursraum angelegt. Hier werden personenbezogenen Daten und Vorgänge wie die Organisation der Studierenden und die Abgaben im Praktikum datenschutzkonform durchgeführt, für die Lehr-/Lern-Materialien gibt es einen Link auf das Lernmodul im offenen Kursraum.
+Für die **Durchführung der Module wird zusätzlich ein geschlossener Kursraum** angelegt. Hier werden personenbezogenen Daten und Vorgänge wie die Organisation der Studierenden und die Abgaben im Praktikum datenschutzkonform durchgeführt, für die Lehr-/Lern-Materialien gibt es einen Link auf das Lernmodul im offenen Kursraum.
 
 ![Überblick OER-Kurse: Entwicklung quelloffen auf GitHub, Export per CI/CD-Pipeline als PDF und als Lernmodul, Einsatz offener und geschlossener Kursräume (Lernmaterialien vs. personenbezogene Daten etc.) \label{fig:oer}](img/oer_kurse.png)
 
@@ -267,161 +274,3 @@ Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 \bigskip
 
 See [github.com/cagix/dlk23](https://github.com/cagix/dlk23) for sources, slides and handout.
-
-
----
-
-
-
-# Teil 1: Peer-Feedback für die Selbstlernphase
-
-## Lernszenario: Wir entwickeln ein Spiel
-
--   Lehrveranstaltung zum Thema Programmieren mit Java (Aufbau-Modul)
--   Gamification: Studierende entwickeln in kleinen Teams über das Semester hinweg ein Spiel
--   Setting:
-    -   Bearbeitung der Aufgaben `@home`
-    -   Vorstellung durch Studierende im Praktikum (den Lehrenden gegenüber)
-    -   Feedback und Bewertung der Bearbeitung durch Lehrende
-
-**TODO**: Skizze mit Woche und Bearbeitung und Abgabe/Feedback
-
-## Peer-Feedback
-
--   Ziele:
-    -   Studierende sollen fremde Lösungen (Code) lesen lernen
-    -   Studierende sollen fremde Konzepte bewerten lernen
-    -   Studierenden sollen Anregungen für ihre eigenen Lösungen bekommen (Spieleentwicklung!)
-
--   Organisatorisch: Abgabe zwei Tage früher, Peer-Feedback im ILIAS, danach Praktikum
--   Technisch: ILIAS, Peer-Feedback für Übungen aktiviert
-
-**TODO**: Skizze mit Woche und Bearbeitung und Abgabe und Peer-Feedback und Lehrenden-Feedback
-
-## Kriterien
-
-**TODO**: Screenshots der Fragenkataloge (Konzeptphase, Umsetzungsphase)
-
-## Lessons Learned
-
-:::::: columns
-::: column
-
-![](img/was_war_gut.png)
-
--   Studierende können fremde Lösungen (Code) (besser) lesen
--   Studierende können fremde Konzepte bewerten
--   Studierende bekommen vielfältige Anregungen für eigene Arbeit
--   Studierende können sich besser im Klassenkontext einordnen
-
-:::
-::: column
-
-![](img/was_koennte_besser_sein.png)
-
--   Einrichtung ILIAS relativ aufwändig: Kriterienkataloge sollten zu Beginn feststehen
--   Arbeit in Gruppen, Peer-Feedback im ILIAS funktioniert aber nur für Einzelabgaben
--   Kontrolle der abgegebenen Feedbacks relativ aufwändig (UX im ILIAS)
--   Orga: für das Peer-Feedback muss Zeit eingeplant werden, welche im wöchentlichen Rhythmus dann schmerzhaft fehlt
-
-:::
-::::::
-
-
-
-# Teil 2: Einrichtung Kursräume
-
-## Szenario: Konzept- und Umsetzungsphase
-<!-- TODO: ausblenden? -->
-
--   Zyklus: Abwechselnd eine Woche Erstellung eines Konzepts und anschließend eine Woche Umsetzung des Konzepts
--   Unterschiedliche Feedback-Kataloge
--   Studierende sollten geführt werden, damit sie sich (a) im aktuellen Zyklus und (b) der aktuellen Phase im Zyklus wiederfinden
-
-## Einrichtung des ILIAS-Kursraums
-<!-- TODO: ausblenden? -->
-
--   Seitengestaltung:
-    -   Für jeden Zyklus einen Block angelegt mit entsprechenden Inhalten und Links auf Objekte
-    -   Blöcke zeitgesteuert aktiviert und deaktiviert
-    -   Blöcke zusätzlich farblich unterschiedlich
-
-Studierende sehen dadurch nur die Kerninformationen sowie den Block für den aktuellen Zyklus
-
-## So sieht es aus
-
-**TODO**: Screenshot Studi-Sicht
-
-**TODO**: Screenshot Admin-Sicht
-
-## Poster-Galerie
-
-**TODO**: Screenshot Studi-Sicht
-
-## Digi-Scouts von DigikoS
-
-**TODO**: Unterstützung durch Digi-Scouts vom DigikoS-Projekt
-
-
-
-# Teil 3: OER-Kurse
-
-## Konzept
-
--   Prof. Gips hat aktuell vier Module als OER überarbeitet und bereitgestellt
-    -   Entwicklung und Versionierung der Inhalte auf GitHub als Markdown-Quellen
-    -   Selbstentwickelte Toolchain erstellt daraus automatisch Folien (PDF) sowie interaktive Lehrunterlagen (HTML-Lernmodul)
--   Kurse werden im offenen Bereich im ILIAS angelegt: Beschreibung, Lernmodul, Link zum aktuellen geschlossenen Kursraum
--   Geschlossener Kursraum für Durchführung des Moduls: Organisation der Studierenden, Abgaben im Praktikum, ... => Link in den offenen Kursraum für das Lernmodul
-
-## So sieht es aus: Screenshot GitHub Compilerbau
-
-![](img/screenshot_cb_github.png)
-
-## So sieht es aus: Screenshot offener Kursraum Compilerbau
-
-![](img/screenshot_cb_oer.png)
-
-## So sieht es aus: Screenshot geschlossener Kursraum Compilerbau
-
-![](img/screenshot_cb_ilias.png)
-
-Quelle: [Videokonferenz](https://www.publicdomainpictures.net/de/view-image.php?image=387148&picture=videokonferenz) by [alexandra Koch](https://www.publicdomainpictures.net/de/browse-author.php?a=155932) on PublicDomainPictures.net ([CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/))
-
-Quelle: [Fragen und Antworten](https://www.publicdomainpictures.net/de/view-image.php?image=387458&picture=fragen-und-antworten) by [mohamed mahmoud hassan](https://www.publicdomainpictures.net/de/browse-author.php?a=138450) on PublicDomainPictures.net ([CC0 Public Domain](http://creativecommons.org/publicdomain/zero/1.0/))
-
-## So sieht es aus: Screenshot Lernmodul Compilerbau
-
-:::::: columns
-::: column
-
-![](img/screenshot_cb_lernmodul.png)
-
-:::
-::: column
-
-![](img/screenshot_cb_lernmodul_session.png)
-
-:::
-::::::
-
-
-
-# Backlog
-
-## OER-Kurse
-
--   Künstliche Intelligenz: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1089753&client_id=FH-Bielefeld), [GitHub](https://github.com/Artificial-Intelligence-HSBI-TDU/KI-Vorlesung)
--   Programmiermethoden: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1089782&client_id=FH-Bielefeld), [GitHub](https://github.com/Programmiermethoden/PM-Lecture)
--   Compilerbau: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1089779&client_id=FH-Bielefeld), [GitHub](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Bachelor)
--   Concepts of Programming Languages: [ILIAS](https://www.hsbi.de/elearning/goto.php?target=crs_1302203&client_id=FH-Bielefeld), [GitHub](https://github.com/Compiler-CampusMinden/CB-Vorlesung-Master)
-
-
-
-# LICENSE
-
-## LICENSE
-
-![](https://licensebuttons.net/l/by-sa/4.0/88x31.png){width="20%"}
-
-Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
