@@ -4,7 +4,7 @@ author: "Finn Amini Kaveh, Carsten Gips (HSBI)"
 abstract: |
     Das Projekt DigikoS hat im letzten Jahr die beiden Module "Künstliche Intelligenz" (KI) und "Programmiermethoden" (PM) am Campus Minden unterstützt. Beide Veranstaltungen sind durch moderne Lehrkonzepte und eine enge Verschmelzung digitaler und analoger Elemente geprägt und werden im Flipped Classroom durchgeführt; die Veranstaltung KI wird zudem in internationaler Kooperation organisiert. In beiden Projekten sollte die Selbstlernphase gestärkt und das Peer-Learning gefördert werden, in KI war zusätzlich die Aktivierung der Studierenden im Internationalisierungskontext ein wichtiges Ziel.
 
-    Wir möchten in unserem Beitrag unsere Erfahrungen beim Peer-Feedback zu Übungsaufgaben im ILIAS, bei digitalen Selbsttests zur Lernfortschrittskontrolle, bei der Durchführung von Poster-Sessions und der Einrichtung einer Poster-Galerie sowie bei der Bildung von internationalen Studierenden-Tandems teilen. Darüber hinaus werden wir einen Einblick in die Gestaltung der ILIAS-Kursräume geben, die jeweils aus einem offenen Kursraum für das OER-Lehr-/Lernmaterial sowie einem geschlossenen Kursraum für die Semesterorganisation und Abgaben bestanden. Hierzu wurde eine interessante Lösung entwickelt, um den Studierenden zeitgesteuert die in einer bestimmten Woche relevanten ILIAS-Objekte zu präsentieren.
+    Wir möchten in unserem Beitrag unsere Erfahrungen beim Peer-Feedback zu Übungsaufgaben im ILIAS und bei der Einrichtung einer Poster-Galerie teilen. Darüber hinaus werden wir einen Einblick in die Gestaltung der ILIAS-Kursräume geben, die jeweils aus einem offenen Kursraum für das OER-Lehr-/Lernmaterial sowie einem geschlossenen Kursraum für die Semester-Organisation und Abgaben bestanden. Hierzu wurde eine interessante Lösung entwickelt, um den Studierenden zeitgesteuert die in einer bestimmten Woche relevanten ILIAS-Objekte zu präsentieren.
 institute: "Unless otherwise noted, this work is licensed under CC BY-SA 4.0."
 lang: de-DE
 track: "Fusion Learning"
@@ -18,7 +18,7 @@ date: "21. November 2023"
 ::: notes
 Das Modul "Programmiermethoden" im zweiten Semester Informatik am Campus Minden beschäftigt sich mit fortgeschrittenen Inhalten zum Thema Programmieren mit Java.
 
-Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wenden die theoretischen Inhalte im Praktikum an und programmieren schrittweise über das Semester hinweg ein Spiel. Die Studierenden arbeiten dabei in kleinen Teams von drei Personen.
+Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wenden die theoretischen Inhalte aus der Vorlesung aktiv im Praktikum an und programmieren schrittweise über das Semester hinweg ein Spiel. Die Studierenden arbeiten dabei in kleinen Teams von drei Personen.
 
 ![Spielsituation im Dungeon](img/screenshot_dungeon.png){width=40%}
 :::
@@ -75,7 +75,7 @@ Im Übungsobjekt im ILIAS lassen sich Kriterienkataloge für das Peer-Feedback e
 
 ![Einrichten von Kriterienkatalogen für das Peer-Feedback im Einstellungsmenü des Übungsobjekts \label{fig:einrichten:kriterienkatalog}](img/kriterienkatalog.png){width="80%"}
 
-Es stehen u.a. "ja/nein"-Fragen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung (vgl. Abb. \ref{fig:kriterien:kriterienkatalog}). Ein Kriterienkatalog gilt für alle Übungen im Übungsobjekt.
+Es stehen u.a. "ja/nein"-Fragen, 5-Sterne-Bewertung sowie Freitextfragen zur Verfügung (vgl. Abb. \ref{fig:kriterien:kriterienkatalog}). Ein Kriterienkatalog gilt für alle Übungseinheiten im Übungsobjekt.
 
 ![Zur Auswahl stehende Fragentypen für das Peer-Feedback \label{fig:kriterien:kriterienkatalog}](img/screenshot_kriterien.png){width="40%"}
 
@@ -214,9 +214,9 @@ Die Entwicklung und Versionierung der Inhalte (als Markdown-Quellen) erfolgt que
 
 Die generierten Lernmodule werden in einen offenen Kursraum integriert.
 
-Für die Durchführung der Module wird zusätzlich ein geschlossener Kursraum angelegt. Hier werden personenbezogenen Daten und Vorgänge wie Organisation der Studierenden und die Abgaben im Praktikum datenschutzkonform durchgeführt, für die Materialien gibt es einen Link auf das Lernmodul im offenen Kursraum.
+Für die Durchführung der Module wird zusätzlich ein geschlossener Kursraum angelegt. Hier werden personenbezogenen Daten und Vorgänge wie die Organisation der Studierenden und die Abgaben im Praktikum datenschutzkonform durchgeführt, für die Lehr-/Lern-Materialien gibt es einen Link auf das Lernmodul im offenen Kursraum.
 
-![Überblick OER-Kurse: Entwicklung quelloffen auf GitHub, Export per CI/CD nach PDF und Lernmodul, Einsatz offener und geschlossener Kursräume (Lernmaterialien vs. personenbezogene Daten etc.) \label{fig:oer}](img/oer_kurse.png)
+![Überblick OER-Kurse: Entwicklung quelloffen auf GitHub, Export per CI/CD-Pipeline als PDF und als Lernmodul, Einsatz offener und geschlossener Kursräume (Lernmaterialien vs. personenbezogene Daten etc.) \label{fig:oer}](img/oer_kurse.png)
 
 Dieses Vorgehen ist über mehrere Jahre erfolgreich im Einsatz, es erlaubt eine schnelle Reaktion auf neue Themen oder das Korrigieren von Fehlern. Zusätzlich wird die zeitaufwändige manuelle Einrichtung der ILIAS-Kursräume auf ein Minimum reduziert.
 :::
@@ -238,7 +238,7 @@ Dieses Vorgehen ist über mehrere Jahre erfolgreich im Einsatz, es erlaubt eine 
 
 Die Studierenden erreichen im Lernmodul zunächst eine Startseite mit einer kurzen fachlichen Einordnung sowie einem Überblick über die behandelten Inhalte und einer Darstellung des Prüfungsformats. Danach gibt es eine Übersicht über die einzelnen Wochen und die jeweils behandelten Themen sowie Aufgaben.
 
-In den einzelnen Sitzungen ist der Aufbau über ein Template gesteuert. Hier finden die Studierenden zu einer Einheit eine Zusammenfassung, selbst erstellte Lehrvideos und Tutorials sowie Lernziele. Danach folgt die Darstellung des Lehrmaterials, gefolgt von Links zu Selbsttests (im ILIAS) sowie Challenges und Literatur zur Vertiefung. Die Studierenden können bequem per Navigation auf einen Abschnitt springen oder auch zu einem verwandeten Thema. Es gibt interaktive Elemente, zusätzlich sollen in Zukunft die Selbsttest aus dem ILIAS in das Lernmodul hineinverlagert werden, um den Studierenden eine Lernerfahrung ohne Medienbrüche zu ermöglichen.
+In den einzelnen Sitzungen ist der Aufbau über ein Template gesteuert. Hier finden die Studierenden zu einer Lern-Einheit eine Zusammenfassung, selbst erstellte Lehrvideos und Tutorials sowie Lernziele. Danach folgt die Darstellung des Lehrmaterials, gefolgt von Links zu Selbsttests (im ILIAS) sowie Challenges und Literatur zur Vertiefung. Die Studierenden können bequem per Navigation auf einen Abschnitt springen oder auch zu einem verwandeten Thema. Es gibt interaktive Elemente, zusätzlich sollen in Zukunft die Selbsttest aus dem ILIAS in das Lernmodul hineinverlagert werden, um den Studierenden eine Lernerfahrung ohne Medienbrüche zu ermöglichen.
 :::
 ::: slides
 ![](img/lernmodul.png)
