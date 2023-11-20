@@ -210,6 +210,10 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 
 Unless otherwise noted, this work is licensed under CC BY-SA 4.0.
 
+\bigskip
+
+See [github.com/cagix/dlk23](https://github.com/cagix/dlk23) for sources, slides and handout.
+
 
 ---
 
