@@ -92,7 +92,7 @@ Es stehen u.a. "ja/nein"-Fragen, 5-Sterne-Bewertung sowie Freitextfragen zur Ver
 
 ![Zur Auswahl stehende Fragentypen für das Peer-Feedback \label{fig:kriterien:kriterienkatalog}](img/screenshot_kriterien.png){width="40%"}
 
-In den einzelnen Übungseinheiten in einem Übungsobjekt im ILIAS kann/muss das Peer-Feedback je Übungseinheit individuell aktiviert (vgl. Abb. \ref{fig:aktivieren:peerfeedback}) und konfiguriert (vgl. Abb. \ref{fig:konfigurieren:peerfeedback}) werden. 
+In den einzelnen Übungseinheiten in einem Übungsobjekt im ILIAS kann/muss das Peer-Feedback je Übungseinheit individuell aktiviert (vgl. Abb. \ref{fig:aktivieren:peerfeedback}) und konfiguriert (vgl. Abb. \ref{fig:konfigurieren:peerfeedback}) werden.
 
 ![Aktivierung des Peer-Feedback pro Übungseinheit im Einstellungsmenü der Übungseinheiten \label{fig:aktivieren:peerfeedback}](img/uebung1.png){width="80%"}
 
@@ -142,6 +142,26 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
 
 
 ## Poster-Galerie im Modul "Künstliche Intelligenz"
+
+::: notes
+Im Modul "Künstliche Intelligenz" hatten die Studierenden die Aufgabe, ein Poster zu einem bestimmten Thema zu gestalten und ihre Arbeitsergebnisse dort geeignet zu visualisieren.
+
+Wir haben im ILIAS-Kursraum eine Poster-Galerie eingerichtet. Dazu haben wir ein neues Objekt "Inhaltsseite" in den Kurs eingefügt und darin über "Seite gestalten" ein mehrspaltiges "Spaltenlayout" mit vier gleich breiten Spalten eingefügt. Die Poster der Studierenden lagen im PDF-Format vor und wurden für die Einbindung im ILIAS zunächst in das PNG-Format exportiert. Diese Bilder wurden dann in den Spalten als "Bild/Audio/Video"-Objekt eingefügt. In den Einstellung des dadurch entstehenden Medienobjekts muss jeweils noch "Vollbild anzeigen" aktiviert werden, damit ILIAS eine kleine Lupe für die Vergrößerung zum Vollbild anzeigt (vgl. Abb. \ref{fig:einrichten:medienobjekt}).
+
+![Einstellungen für jedes Bild (Medienobjekt) \label{fig:einrichten:medienobjekt}](img/postergalerie_einstellungen.png){width="25%"}
+
+Dadurch entsteht in der Studierendenansicht des Kursraums eine mehrspaltige Poster-Galerie (vgl. Abb. \ref{fig:postergalerie}), in der jedes Poster als kleine Vorschau angezeigt wird und wo man jedes Poster per Klick auf das jeweilige Lupensymbol in der Vollbild-Ansicht in Ruhe betrachten kann.
+
+![Ausschnitt der Poster-Galerie im Modul "KI" im Winter 2022/23 \label{fig:postergalerie}](img/screenshot_poster.png){width="80%"}
+:::
+
+::: slides
+![](img/postergalerie.png){width="60%"}
+
+\bigskip
+
+![](img/screenshot_poster.png){width="80%"}
+:::
 
 
 ## LICENSE
