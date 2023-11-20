@@ -43,7 +43,7 @@ Hierzu gibt es wöchentliche Übungsaufgaben. Diese werden von den Studierenden 
 
 ## Peer-Feedback zu Übungsaufgaben im ILIAS
 
-Ziele Peer-Feedback: Studierende sollen ...
+**Ziele Peer-Feedback**: Studierende sollen ...
 
 -   Fremde Lösungen (Code) lesen lernen
 -   Fremde Konzepte bewerten lernen
@@ -56,6 +56,7 @@ Ziele Peer-Feedback: Studierende sollen ...
 ::: slides
 \bigskip
 \bigskip
+\smallskip
 
 ![](img/ablauf_abgabe_mit.png)
 :::
@@ -91,7 +92,7 @@ In den einzelnen Übungseinheiten in einem Übungsobjekt im ILIAS kann/muss das 
 \bigskip
 :::
 
-Beispiele für [verwendete]{.notes} Review-Fragen:
+**Beispiele für [verwendete]{.notes} Review-Fragen**:
 
 -   Wie gut können Sie die Modellierung nachvollziehen? ([5-Sterne-Bewertung]{.alert})
 -   Was gefällt Ihnen an der Modellierung besonders? ([Text]{.alert})
@@ -111,17 +112,17 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
 ### Was könnte beim nächsten Mal besser sein
 :::
 
--   Fragen: Lieber Freitext statt Checkboxen bzw. 5-Sterne-Bewertung nutzen
+-   **Fragen**: Lieber Freitext statt Checkboxen bzw. 5-Sterne-Bewertung nutzen
 
 \smallskip
 
--   ILIAS:
+-   **ILIAS**:
     -   Peer-Feedback lässt sich nur für Einzelabgaben konfigurieren
     -   Kriterienkataloge lassen sich nicht kopieren
 
 \smallskip
 
--   Organisation:
+-   **Organisation**:
     -   Peer-Review == zusätzliche "Abgabe" (aus Studierendenperspektive)
     -   Zusätzliche Bearbeitungszeit notwendig
 
@@ -152,8 +153,9 @@ Alle Blöcke wurden zeitgesteuert aktiviert und deaktiviert, so dass für die St
 
 ::: slides
 \bigskip
+\smallskip
 
-![](img/screenshot_zyklus.png)
+![](img/screenshot_zyklus.png){width="100%"}
 :::
 
 
@@ -177,7 +179,7 @@ Dadurch entsteht in der Studierendenansicht des Kursraums eine mehrspaltige Post
 
 \bigskip
 
-![](img/screenshot_poster.png){width="80%"}
+![](img/screenshot_poster.png){width="100%"}
 :::
 
 
@@ -193,11 +195,13 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 -   Hilfe bei der Entwicklung von Umfragen zur Evaluation der eingesetzten Techniken
 :::
 
-::: slides
-\Large
+:::::: slides
+\LARGE
 
-Vielen Dank für die Unterstützung bei der Umsetzung im ILIAS durch die Digi-Scouts vom [DigikoS](https://www.digikos.de/)-Projekt!
+::: center
+[Vielen Dank an die Digi-Scouts vom [DigikoS](https://www.digikos.de/)-Projekt für die Unterstützung bei der technischen Umsetzung im ILIAS!]{.alert}
 :::
+::::::
 
 
 ## LICENSE
