@@ -126,6 +126,7 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
 -   **ILIAS**:
     -   Peer-Feedback lässt sich nur für Einzelabgaben konfigurieren
         [(problematisch bei Bearbeitung in kleinen Teams)]{.notes}
+    -   Keine Nachfrist oder individuelle Abgabe möglich
     -   Kriterienkataloge lassen sich nicht kopieren
         [(sollten zu Beginn der Veranstaltung feststehen)]{.notes}
 
