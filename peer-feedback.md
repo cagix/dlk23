@@ -127,6 +127,7 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
     -   Peer-Feedback lässt sich nur für Einzelabgaben konfigurieren
         [(problematisch bei Bearbeitung in kleinen Teams)]{.notes}
     -   Keine Nachfrist oder individuelle Abgabe möglich
+        [(keine Flexibilität möglich, technische Gründe)]{.notes}
     -   Kriterienkataloge lassen sich nicht kopieren
         [(sollten zu Beginn der Veranstaltung feststehen)]{.notes}
 
