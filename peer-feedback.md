@@ -133,8 +133,9 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
 \smallskip
 
 -   **Organisation**:
+    -   Zusätzliche Bearbeitungszeit für Peer-Feedback notwendig
     -   Peer-Review == zusätzliche "Abgabe" (aus Studierenden-Perspektive)
-    -   Zusätzliche Bearbeitungszeit notwendig
+    -   Höherer Workload für die Studierenden
 
 
 ## Mehrwöchige Arbeitszyklen: Orientierung im ILIAS
