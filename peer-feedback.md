@@ -16,6 +16,8 @@ date: "21. November 2023"
 ## Lernszenario "Programmiermethoden": Wir entwickeln ein Spiel
 
 ::: notes
+Gemeinsam mit dem DigikoS-Team haben wir in den letzten Semestern verschiedene unterstützende Elemente digitaler Lehre erarbeitet und erprobt. Exemplarisch sollen hier die Erfahrungen im Modul "Programmiermethoden" aus dem Sommersemester 2023 dargestellt werden.
+
 Das Modul "Programmiermethoden" im zweiten Semester Informatik am Campus Minden beschäftigt sich mit fortgeschrittenen Inhalten zum Thema Programmieren mit Java.
 
 Wir setzen im Praktikum auf eine Variante der Gamification: Die Studierenden wenden die theoretischen Inhalte aus der Vorlesung aktiv im Praktikum an und programmieren schrittweise über das Semester hinweg ein Spiel. Die Studierenden arbeiten dabei in kleinen Teams von drei Personen.
