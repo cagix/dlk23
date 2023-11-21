@@ -4,8 +4,8 @@
 
 Read Online:
 
--   [Slides (PDF)](https://github.com/cagix/dlk23/blob/_slides/peer-feedback_slides.pdf)
--   [Handout (PDF)](https://github.com/cagix/dlk23/blob/_handout/peer-feedback_handout.pdf)
+-   [**Slides (PDF)**](https://github.com/cagix/dlk23/blob/_slides/peer-feedback_slides.pdf)
+-   [**Handout (PDF)**](https://github.com/cagix/dlk23/blob/_handout/peer-feedback_handout.pdf)
 
 
 ## License
