@@ -202,7 +202,7 @@ Dadurch entsteht in der Studierendenansicht des Kursraums eine mehrspaltige Post
 ## Unterstützung durch Digi-Scouts von DigikoS
 
 ::: notes
-Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS](https://www.digikos.de/)-Projekt. Dazu gehörten:
+Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS](https://www.digikos.de/)-Projekt ("Digitalbaukasten für kompetenzorientiertes Selbststudium"). Dazu gehörten:
 
 -   Einrichtung des Kursraumes in ILIAS
 -   Konfiguration des Peer-Feedbacks
