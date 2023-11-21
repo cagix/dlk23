@@ -135,7 +135,7 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
 
 -   **Organisation**:
     -   Zusätzliche Bearbeitungszeit für Peer-Feedback notwendig
-    -   Peer-Review == zusätzliche "Abgabe" (aus Studierenden-Perspektive)
+    -   Peer-Review = zusätzliche "Abgabe" (aus Studierenden-Perspektive)
     -   Höherer Workload für die Studierenden
 
 ::: slides
