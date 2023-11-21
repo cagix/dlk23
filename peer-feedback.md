@@ -226,7 +226,7 @@ Die Entwicklung und Umsetzung der Konzepte wurde unterstützt durch das [DigikoS
 ### Konzept
 Prof. Gips hat aktuell **vier Module als OER** überarbeitet und unter der CC BY-SA-4.0 Lizenz bereitgestellt.
 
-Die **Entwicklung und Versionierung der Inhalte** (als Markdown-Quellen) erfolgt quelloffen auf **GitHub**. Über eine **selbstentwickelte Toolchain** werden daraus automatisch **Foliensätze (PDF) sowie interaktive Lehrunterlagen (HTML-Lernmodul) exportiert**.
+Die **Entwicklung und Versionierung der Inhalte** (als Markdown-Quellen) erfolgt quelloffen auf **GitHub**. Über eine **selbstentwickelte Toolchain** werden daraus automatisch **Foliensätze (LaTeX/PDF) sowie interaktive Lehrunterlagen (HTML-Lernmodul) exportiert**.
 
 Die generierten **Lernmodule werden in einen offenen Kursraum** integriert.
 
