@@ -137,6 +137,10 @@ Insbesondere lässt sich positiv vermerken, dass die gesteckten Ziele wie (a) fr
     -   Peer-Review == zusätzliche "Abgabe" (aus Studierenden-Perspektive)
     -   Höherer Workload für die Studierenden
 
+::: slides
+[Danke Finn!]{.bsp}
+:::
+
 
 ## Mehrwöchige Arbeitszyklen: Orientierung im ILIAS
 
